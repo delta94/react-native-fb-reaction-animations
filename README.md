@@ -1,2 +1,1 @@
-# react-native-fb-reaction-animations
-# react-native-fb-reaction-animations
+# React Native Facebook Reactions Animation
